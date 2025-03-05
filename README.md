@@ -91,6 +91,9 @@ RECIPIENT_EMAIL=recipient@example.com
 	 * OneDrive
 	 * Amazon S3 Glacier
 
+### Suggestion?
+Open a new issue with "Enhancement" flag from "Issues" option.
+
 ### Contributing
 1.  Fork the repository.
 2.  Create a new branch for your feature (`git checkout -b feature/feature-name`).

@@ -105,6 +105,6 @@ Open a new issue with "Enhancement" flag from "Issues" option.
 ![Alt](https://repobeats.axiom.co/api/embed/30199b300c483cecbc4b15636aa2baf6076ccf82.svg "Repobeats analytics image")
 
 ### Security
-We take the security of the API extremely seriously. If you think you've found a security issue with the API (whether information disclosure, privilege escalation, or another issue), we'd appreciate responsible disclosure as soon as possible.
+We take the security extremely seriously. If you think you've found a security issue (whether information disclosure, privilege escalation, or another issue), we'd appreciate responsible disclosure as soon as possible.
 
 To report a security issue, you can email to  `shivampandya24[at]gmail.com`
